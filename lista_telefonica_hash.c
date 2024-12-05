@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h> // Adicione esta linha
+#include <time.h>
 #include <wchar.h>
-
-// O restante do seu código...
 
 #define TABLE_SIZE 100
 
